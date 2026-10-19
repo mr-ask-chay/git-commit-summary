@@ -7,8 +7,12 @@
 
 A powerful, high-performance CLI tool to summarize git commits with rich visual feedback.
 
-> **Author**: Sai Annam (mr_ask_chay)  
+> **Author**: [Sai Krishna Chaitanya](https://pdf-fe-kappa.vercel.app/about) (mr_ask_chay)
 > **Handle**: @otaku0304  
+
+More tools by the author: [Unclasp PDF tools](https://pdf-fe-kappa.vercel.app/),
+[StartMyDev](https://start-my-dev-dashboard.vercel.app/), and the
+[Angular Internationalization Demo](https://internationalization-d2aa6.web.app/en/).
 
 ---
 
@@ -55,7 +59,7 @@ This tool uses sterile input processing from stdin. It does not execute external
 ## 🛠️ Contributing
 
 This package is part of a monorepo containing both Python and Node.js implementations.
-To contribute, please visit the [GitHub Repository](https://github.com/otaku0304/git-commit-summary).
+To contribute, please visit the [GitHub Repository](https://github.com/mr-ask-chay/git-commit-summary).
 
 ---
 *Maintained with ❤️ by Sai Annam*

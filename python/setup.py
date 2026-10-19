@@ -6,12 +6,11 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="git-commit-summary",
     version="1.0.1",
-    author="Sai Annam",
-    author_email="contact@mraskchay.com",  # Placeholder or generic if not known
+    author="Sai Krishna Chaitanya",
     description="A powerful CLI tool to summarize git commits with rich visual feedback.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/otaku0304/git-commit-summary",
+    url="https://github.com/mr-ask-chay/git-commit-summary",
     py_modules=["summary"],
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -20,6 +19,12 @@ setup(
         "Environment :: Console",
         "Topic :: Software Development :: Version Control :: Git",
     ],
+    project_urls={
+        "Author profile": "https://pdf-fe-kappa.vercel.app/about",
+        "Unclasp PDF tools": "https://pdf-fe-kappa.vercel.app/",
+        "StartMyDev": "https://start-my-dev-dashboard.vercel.app/",
+        "Angular Internationalization Demo": "https://internationalization-d2aa6.web.app/en/",
+    },
     install_requires=[
         "colorama>=0.4.6",
     ],

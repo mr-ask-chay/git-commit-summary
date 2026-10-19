@@ -14,16 +14,21 @@
     "commit",
     "summary",
     "cli",
-    "developer-tools"
+    "developer-tools",
+    "git-diff",
+    "commit-history"
   ],
-  "author": "Sai Annam <contact@mraskchay.com>",
+  "author": {
+    "name": "Sai Krishna Chaitanya",
+    "url": "https://pdf-fe-kappa.vercel.app/about"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/otaku0304/git-commit-summary.git"
+    "url": "git+https://github.com/mr-ask-chay/git-commit-summary.git"
   },
   "bugs": {
-    "url": "https://github.com/otaku0304/git-commit-summary/issues"
+    "url": "https://github.com/mr-ask-chay/git-commit-summary/issues"
   },
-  "homepage": "https://github.com/otaku0304/git-commit-summary#readme"
+  "homepage": "https://github.com/mr-ask-chay/git-commit-summary#readme"
 }

@@ -40,7 +40,7 @@ git show HEAD | git-commit-summary
 ```
 
 ### 👨‍💻 Author
-Built with ❤️ by **Sai Annam** ([@otaku0304](https://github.com/otaku0304))
+Built with ❤️ by **Sai Annam** ([@mr-ask-chay](https://github.com/mr-ask-chay))
 *Check out my other tools:*
 *   [StartMyDev Dashboard](https://start-my-dev-dashboard.vercel.app/)
 *   [PDF Password Remover](https://pdf-fe-kappa.vercel.app/)

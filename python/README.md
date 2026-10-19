@@ -7,8 +7,12 @@
 
 A powerful, high-performance CLI tool to summarize git commits with rich visual feedback.
 
-> **Author**: Sai Annam (mr_ask_chay)  
+> **Author**: [Sai Krishna Chaitanya](https://pdf-fe-kappa.vercel.app/about) (mr_ask_chay)
 > **Handle**: @otaku0304  
+
+More tools by the author: [Unclasp PDF tools](https://pdf-fe-kappa.vercel.app/),
+[StartMyDev](https://start-my-dev-dashboard.vercel.app/), and the
+[Angular Internationalization Demo](https://internationalization-d2aa6.web.app/en/).
 
 ---
 
@@ -38,7 +42,7 @@ git show HEAD | git-commit-summary
 Clone this repository only if you want to contribute to the source code.
 
 ```bash
-git clone https://github.com/otaku0304/git-commit-summary.git
+git clone https://github.com/mr-ask-chay/git-commit-summary.git
 cd git-commit-summary
 pip install -r requirements.txt
 ```

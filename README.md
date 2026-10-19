@@ -2,7 +2,7 @@
 
 [![PyPI Version](https://img.shields.io/pypi/v/git-commit-summary.svg)](https://pypi.org/project/git-commit-summary/)
 [![NPM Version](https://img.shields.io/npm/v/otaku-git-commit-summary.svg)](https://www.npmjs.com/package/otaku-git-commit-summary)
-[![GitHub Packages](https://img.shields.io/badge/GitHub_Packages-v1.0.1-blue)](https://github.com/otaku0304/git-commit-summary/packages)
+[![GitHub Packages](https://img.shields.io/badge/GitHub_Packages-v1.0.1-blue)](https://github.com/mr-ask-chay/git-commit-summary/packages)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://pypi.org/project/git-commit-summary/)
 [![Node 18+](https://img.shields.io/badge/node-18+-green.svg)](https://www.npmjs.com/package/otaku-git-commit-summary)
@@ -10,8 +10,12 @@
 
 A powerful, high-performance CLI tool to summarize git commits with rich visual feedback.
 
-> **Author**: Sai Annam (mr_ask_chay)  
+> **Author**: [Sai Krishna Chaitanya](https://pdf-fe-kappa.vercel.app/about) (mr_ask_chay)
 > **Handle**: @otaku0304  
+
+More tools by the author: [Unclasp PDF tools](https://pdf-fe-kappa.vercel.app/),
+[StartMyDev](https://start-my-dev-dashboard.vercel.app/), and the
+[Angular Internationalization Demo](https://internationalization-d2aa6.web.app/en/).
 
 ---
 
@@ -53,7 +57,7 @@ git show HEAD | git-commit-summary
 Clone this repository only if you want to contribute to the source code.
 
 ```bash
-git clone https://github.com/otaku0304/git-commit-summary.git
+git clone https://github.com/mr-ask-chay/git-commit-summary.git
 cd git-commit-summary
 pip install -r requirements.txt
 ```
@@ -98,4 +102,4 @@ This tool uses sterile input processing from stdin. It does not execute external
 ```
 
 ---
-*Maintained with ❤️ by Sai Annam*
+*Maintained with ❤️ by [Sai Krishna Chaitanya](https://pdf-fe-kappa.vercel.app/about)*
