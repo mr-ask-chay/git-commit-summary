@@ -12,6 +12,7 @@ A powerful, high-performance CLI tool to summarize git commits with rich visual 
 
 > **Author**: [Sai Krishna Chaitanya](https://pdf-fe-kappa.vercel.app/about) (mr_ask_chay)
 > **Handle**: @otaku0304  
+> **Portfolio**: [mraskchay.vercel.app](https://mraskchay.vercel.app/)
 
 More tools by the author: [Unclasp PDF tools](https://pdf-fe-kappa.vercel.app/),
 [StartMyDev](https://start-my-dev-dashboard.vercel.app/), and the
